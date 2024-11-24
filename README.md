@@ -1,6 +1,7 @@
 
 
 - Frontend
+cd frontend
 to work with docker
   - ```docker build -t react-frontend . ```
   - ``` docker run -p 3000:80 react-frontend```
